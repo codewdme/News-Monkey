@@ -1,3 +1,9 @@
+/*news api key - d00b1087302a4403a3cb3fec207ccbf8 */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
